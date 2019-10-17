@@ -17,7 +17,7 @@ we would like to focus on specific aspect of this beautiful field -- "implementi
 4. Convex Optimization - Stephen Boyd and Lieven Vandenberghe (Some Parts)
 5. Pattern Recognition and Machine Learning - Christopher Bishop
 6. Machine learning: a Probabilistic Perspective - Kevin Murphy
-7. Deep Learning - Yosua Bengio
+7. Deep Learning - Ian Goodfellow, Yosua Bengio, Aaron Courville
 8. Introduction to Algorithms - Thomas E. Cormen
 9. Mining of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman
 10. Papers which will be implemented as projects
@@ -59,4 +59,5 @@ I would like to extend my acknowledgements to the following folks, who helped in
 suggestions - 
 1. [Aishwarya Kanaparthi](https://www.linkedin.com/in/aishwarya-kanaparthi-b3441a133/)
 2. [Ayush Jain](https://www.linkedin.com/in/ayush029/)
+3. [Manny Ko](https://www.linkedin.com/in/manchorko/)
 

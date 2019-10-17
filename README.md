@@ -20,7 +20,7 @@ we would like to focus on specific aspect of this beautiful field -- "implementi
 7. Deep Learning - Yosua Bengio
 8. Introduction to Algorithms - Thomas E. Cormen
 9. Mining of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman
-10. Papers which will be implemneted as projects
+10. Papers which will be implemented as projects
 
 # Prerequisites
 1. Knowledge of Python, C, C++

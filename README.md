@@ -36,6 +36,8 @@ also reading solutions from others.
 
 It must be noted that this is a collaborative learning setuo and hence the success depends on every one contributing. Secondly, as objective number 3 suggests, reading others code is a requirement, and so does writing code. If you fail to do either of them repeatedly, you will be removed from the program. You can continue to follow the repository but you will cease to be the part of it.
 
+In the first instance of this program, the **number of participants will be restricted to 100 at max.**
+
 # Commitment
 1. Atleast 25 hours per week
 

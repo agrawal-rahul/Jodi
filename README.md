@@ -38,4 +38,8 @@ It must be noted that this is a collaborative learning setuo and hence the succe
 
 # Commitment
 1. Atleast 25 hours per week
-2. 
+
+# Costing
+I am not going to charge anything for whatever efforts I will put it. At the end, if you feel that you derive some value out of it, 
+please donate amount of your wish to your favorite charity and send me a note so that I can acknowledge you _for making the world 
+a better place_.

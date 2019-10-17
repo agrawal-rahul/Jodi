@@ -19,6 +19,7 @@ we would like to focus on specific aspect of this beautiful field -- "implementi
 6. Machine learning: a Probabilistic Perspective - Kevin Murphy
 7. Introduction to Algorithms - Thomas E. Cormen
 8. Mining of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman
+9. Papers which will be implemneted as projects
 
 # Prerequisites
 1. Knowledge of Python, C, C++
@@ -34,3 +35,7 @@ The content read has to be implemented in parallel and the code review raised he
 also reading solutions from others.
 
 It must be noted that this is a collaborative learning setuo and hence the success depends on every one contributing. Secondly, as objective number 3 suggests, reading others code is a requirement, and so does writing code. If you fail to do either of them repeatedly, you will be removed from the program. You can continue to follow the repository but you will cease to be the part of it.
+
+# Commitment
+1. Atleast 25 hours per week
+2. 

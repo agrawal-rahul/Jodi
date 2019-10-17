@@ -55,5 +55,5 @@ process is streamlined.
 
 # Acknowledgements
 I would like to extend my acknowledgements to the following folks, who helped in shaping up the above initiative - 
-1. Aishwarya Kanaparthi [https://www.linkedin.com/in/aishwarya-kanaparthi-b3441a133/]
+1. Aishwarya Kanaparthi [Linkedin|https://www.linkedin.com/in/aishwarya-kanaparthi-b3441a133/]
 

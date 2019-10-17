@@ -53,3 +53,7 @@ No. I cannot commit time for teaching right now. I will be helping out with the 
 the process. The participants have to self-study but the milestones and the organization will be handled by me so that the whole 
 process is streamlined. 
 
+# Acknowledgements
+I would like to extend my acknowledgements to the following folks, who helped in shaping up the above initiative - 
+1. Aishwarya Kanaparthi [https://www.linkedin.com/in/aishwarya-kanaparthi-b3441a133/]
+

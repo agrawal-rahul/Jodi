@@ -18,9 +18,10 @@ we would like to focus on specific aspect of this beautiful field -- "implementi
 5. Pattern Recognition and Machine Learning - Christopher Bishop
 6. Machine learning: a Probabilistic Perspective - Kevin Murphy
 7. Deep Learning - Ian Goodfellow, Yosua Bengio, Aaron Courville
-8. Introduction to Algorithms - Thomas E. Cormen
-9. Mining of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman
-10. Papers which will be implemented as projects
+8. Elements of Statistical Learning -  Trevor Hastie, Robert Tibshirani, Jerome Friedman
+9. Introduction to Algorithms - Thomas E. Cormen
+10. Mining of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman
+11. Papers which will be implemented as projects
 
 # Prerequisites
 1. Knowledge of Python, C, C++

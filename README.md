@@ -14,7 +14,7 @@ we would like to focus on specific aspect of this beautiful field -- "implementi
 1. A First Course in Probability - Sheldon M. Ross
 2. Statistics - David Freedman and Robert Pisani
 3. Linear Algebra - Gilbert Strang
-4. Convex Optimization - Stephen Boyd and Lieven Vandenberghe [Some Parts]
+4. Convex Optimization - Stephen Boyd and Lieven Vandenberghe (Some Parts)
 5. Pattern Recognition and Machine Learning - Christopher Bishop
 6. Machine learning: a Probabilistic Perspective - Kevin Murphy
 7. Introduction to Algorithms - Thomas E. Cormen
@@ -27,3 +27,10 @@ we would like to focus on specific aspect of this beautiful field -- "implementi
 1. Learning Python - Mark Lutz
 2. C++ Primer - Stanley B. Lipmman, Josée Lajoie, Barbara E. Moo
 3. C Programming Language - Brian Kernighan, Dennis Ritchie
+
+# How it Works
+We will start with a group that signs up for the learning. The participants are supposed to self read the content and can ask questions.
+The content read has to be implemented in parallel and the code review raised here in a branch. You get points for your assignments and
+also reading solutions from others.
+
+It must be noted that this is a collaborative learning setuo and hence the success depends on every one contributing. Secondly, as objective number 3 suggests, reading others code is a requirement, and so does writing code. If you fail to do either of them repeatedly, you will be removed from the program. You can continue to follow the repository but you will cease to be the part of it.

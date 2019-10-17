@@ -17,9 +17,10 @@ we would like to focus on specific aspect of this beautiful field -- "implementi
 4. Convex Optimization - Stephen Boyd and Lieven Vandenberghe (Some Parts)
 5. Pattern Recognition and Machine Learning - Christopher Bishop
 6. Machine learning: a Probabilistic Perspective - Kevin Murphy
-7. Introduction to Algorithms - Thomas E. Cormen
-8. Mining of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman
-9. Papers which will be implemneted as projects
+7. Deep Learning - Yosua Bengio
+8. Introduction to Algorithms - Thomas E. Cormen
+9. Mining of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman
+10. Papers which will be implemneted as projects
 
 # Prerequisites
 1. Knowledge of Python, C, C++
@@ -54,6 +55,8 @@ the process. The participants have to self-study but the milestones and the orga
 process is streamlined. 
 
 # Acknowledgements
-I would like to extend my acknowledgements to the following folks, who helped in shaping up the above initiative - 
+I would like to extend my acknowledgements to the following folks, who helped in improving the JODI initiative, by providing valuable
+suggestions - 
 1. [Aishwarya Kanaparthi](https://www.linkedin.com/in/aishwarya-kanaparthi-b3441a133/)
+2. [Ayush Jain](https://www.linkedin.com/in/ayush029/)
 

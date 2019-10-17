@@ -45,3 +45,11 @@ In the first instance of this program, the **number of participants will be rest
 I am not going to charge anything for whatever efforts I will put it. At the end, if you feel that you derived some value out of it, 
 please donate amount of your wish to your favorite charity and send me a note so that I can acknowledge you _for making the world 
 a better place_.
+
+# Questions
+
+## Will I be teaching ?
+No. I cannot commit time for teaching right now. I will be helping out with the questions and also trying to facilitate and moderate
+the process. The participants have to self-study but the milestones and the organization will be handled by me so that the whole 
+process is streamlined. 
+
